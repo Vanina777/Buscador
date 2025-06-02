@@ -1,0 +1,73 @@
+@font-face {
+  font-family: 'Jellyboast';
+  src: url('fonts/Jellybost.otf') format('opentype');
+}
+
+body {
+  background-color: #CEC1A3; 
+  font-family: 'Jellyboast', cursive;
+  color: #B59E7D; 
+}
+
+
+.cartel-bienvenidos {
+  background-color: #CEC1A3; 
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px; 
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: 1px;
+  color: #3e2e29; 
+  margin: 0;
+}
+
+h1, .card-title {
+  text-shadow: 1px 1px 2px rgba(0,0,0,0.1);
+}
+
+.input-group .form-control {
+  border: 2px solid #3e2e29; 
+  background-color: #F1EADA; 
+  color: #3e2e29;
+}
+
+.input-group .form-control::placeholder {
+  color: #a27c67; 
+}
+
+.btn-outline-secondary {
+  background-color: #3e2e29; 
+  color: #eae0d2;
+  border: none; 
+  transition: background-color 0.3s ease;
+}
+
+.btn-outline-secondary:hover {
+  background-color: black; 
+}
+
+.card {
+  background-color: #F1EADA;
+    border: 1px solid #7b6248;
+  border-radius: 15px;
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05); 
+}
+
+.card-title {
+  font-weight: bold;
+  color: #4e3627;
+}
+
+.card-text {
+  color: #4e3627;
+}
+
