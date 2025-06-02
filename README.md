@@ -28,14 +28,3 @@ Es una página web donde podés buscar y filtrar productos de panadería por nom
 └── fonts/
 
 └── Jellybost.otf # Fuente decorativa
-
-
-## 🚀 Cómo ejecutarlo
-
-- Cloná el repositorio con:
- git clone https://github.com/Vanina777/buscador-panaderia.git
-
-- Entrá a la carpeta:
-cd buscador-panaderia
-
-- Abrí el archivo index.html con tu navegador  y listo.
