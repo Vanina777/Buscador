@@ -1,4 +1,3 @@
-                  ˙ . ꒷ 🍰 . 𖦹˙—
 # 🥖 Buscador de Productos para Panadería
 
 Es una página web donde podés buscar y filtrar productos de panadería por nombre o categoría, y ver detalles como el precio y si están disponibles.
@@ -19,11 +18,17 @@ Es una página web donde podés buscar y filtrar productos de panadería por nom
 ## 📂 Estructura del proyecto
 
 ├── index.html # Página principal
+
 ├── styles.css # Estilos personalizados
+
 ├── script.js # Lógica de filtrado
+
 ├── productos.json # Base de datos de productos
+
 └── fonts/
+
 └── Jellybost.otf # Fuente decorativa
+
 
 ## 🚀 Cómo ejecutarlo
 
