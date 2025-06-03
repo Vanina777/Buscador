@@ -28,3 +28,5 @@ Es una página web donde podés buscar y filtrar productos de panadería por nom
 └── fonts/
 
 └── Jellybost.otf # Fuente decorativa
+
+![Vista previa del proyecto](./buscador.png)
